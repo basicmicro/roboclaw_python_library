@@ -1,1 +1,1 @@
-This is the official RoboClaw Python library. Included is the library itself as well as examples of the library in use.
+> ⚠️ **Legacy Library** — This library is for RoboClaw V5 and earlier, or RoboClaw 2x60A / 2x60AHV V7 and earlier. For all current controllers, use **[basicmicro_python](https://github.com/basicmicro/basicmicro_python)** instead.
